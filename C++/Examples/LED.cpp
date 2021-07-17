@@ -1,5 +1,5 @@
-#include <Navio2/Led_Navio2.h>
-#include <Navio+/Led_Navio.h>
+#include <Navio2/C++/Navio/Navio2/Led_Navio2.h>
+#include <Navio2/C++/Navio/Navio+/Led_Navio.h>
 #include <Common/Util.h>
 #include <unistd.h>
 #include <memory>
